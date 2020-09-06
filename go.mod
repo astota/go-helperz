@@ -1,4 +1,4 @@
-module github.com/astota/go-helpers
+module github.com/astota/go-helperz
 
 go 1.12
 
